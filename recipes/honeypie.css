@@ -1,0 +1,7 @@
+body {
+    background-color: rgba(255, 175, 16, 1);
+    font-family: Arial, "Times New Roman", Georgia;
+    -webkit-text-stroke: 1px;
+    -webkit-text-fill-color: red;
+    -webkit-text-stroke-color: black;
+}

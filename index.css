@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, "Times New Roman", Georgia;
+    background-color: rgba(255, 175, 16, 1)
+}
+
+h3 {
+    font-size: 50px;
+    color: red;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+  #weblogo {
+    width: 500px;
+    height: 100px;
+    object-fit: none;
+    object-position: left top;
+  }
+
+  #pies {
+    object-fit: none;
+    width: 500px;
+  }
