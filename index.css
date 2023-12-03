@@ -1,23 +1,82 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
-    font-family: Arial, "Times New Roman", Georgia;
+    font-family: sans-serif, "Times New Roman", Georgia;
     background-color: rgba(255, 175, 16, 1)
 }
 
-h3 {
-    font-size: 50px;
-    color: red;
-    -webkit-text-stroke: 1px;
-    -webkit-text-stroke-color: black;
+.weblogo {
+  width: 300px;
+  margin: auto;
+  margin-bottom: 10px;
+  border: 1px transparent;
 }
 
-  #weblogo {
-    width: 500px;
-    height: 100px;
-    object-fit: none;
-    object-position: left top;
-  }
+.slogan {
+  font-size: 50px;
+  margin-left: 90px;
+  color: red;
+  -webkit-text-stroke: 1px;
+  -webkit-text-stroke-color: black;
+}
 
-  #pies {
-    object-fit: none;
-    width: 500px;
-  }
+.recipes {
+  background-color: red;
+  padding: 30px;
+  margin: auto;
+  width: 1000px;
+  border-style: double;
+  border-radius: 10px;
+}
+
+.honeyimg {
+  display: inline-block;
+  margin: 15px;
+}
+
+.cheeseimg {
+  display: inline-block;
+  height: 203px;
+  margin: 15px;
+}
+
+.chickenimg {
+  margin: 15px;
+  display: inline-block;
+}
+
+.honeytxt{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 170px;
+  margin-left: 90px;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.cheesetxt{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 10px;
+  margin-left: 10px;
+  color: white;
+  font-size: 25px;
+  font-weight: bold; 
+}
+
+.chickentxt{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 10px;
+  margin-left: 150px;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+
+
+
