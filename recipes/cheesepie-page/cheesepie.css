@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(255, 175, 16, 1);
+    font-family: sans-serif, "Times New Roman", Georgia;
+}
+
+.weblogo {
+    width: 250px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.intro {
+    background-color: red;
+    border-style: double;
+    border-radius: 10px;
+    width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+.introtext {
+    width: 600px;
+    margin: auto;
+    padding-bottom: 15px;
+    color:rgba(255, 175, 16, 1);
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#pie {
+    width: 450px;
+    padding: 0px;
+    margin: 20px 100px 20px 150px;
+}
+
+.ingredients {
+    background-color: red;
+    border-style: double;
+    border-radius: 10px;
+    width: 800px;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+.needed {
+    font-size: 30px;
+    width: 700px;
+    margin: auto;
+    padding-left: 85px;
+    padding-bottom: 15px;
+    color:rgba(255, 175, 16, 1);
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;    
+}
+
+.list {
+    font-size: 20px;
+    width: 600px;
+    margin: auto;
+    padding-bottom: 15px;
+    color:rgba(255, 175, 16, 1);
+}
+
+.preparation {
+    background-color: red;
+    border-style: double;
+    border-radius: 10px;
+    width: 800px;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+.directions {
+    font-size: 30px;
+    width: 700px;
+    margin: auto;
+    padding-left: 85px;
+    padding-bottom: 15px;
+    color:rgba(255, 175, 16, 1);
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;    
+}
+
+.prep {
+    font-size: 20px;
+    width: 600px;
+    margin: auto;
+    padding-bottom: 15px;
+    color:rgba(255, 175, 16, 1);
+}
